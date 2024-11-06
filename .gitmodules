@@ -22,3 +22,6 @@
 [submodule "luci-app-poweroff"]
 	path = luci-app-poweroff
 	url = https://github.com/esirplayground/luci-app-poweroff
+[submodule "luci-theme-alpha"]
+	path = luci-theme-alpha
+	url = https://github.com/derisamedia/luci-theme-alpha.git
